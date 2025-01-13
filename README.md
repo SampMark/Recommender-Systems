@@ -18,6 +18,7 @@ Existem diferentes abordagens para a construção de sistemas de recomendação,
 
 1. **Sistemas baseados em conteúdo:**
    - Analisam os atributos e características dos itens que o usuário interagiu positivamente no passado para recomendar itens semelhantes. 🔍
+   - [Recomendação de Filmes usando o DataSet MovieLens](https://github.com/SampMark/Recommendation-Systems/blob/main/Content_Based_Recommendation_System.ipynb)
 
 2. **Sistemas baseados em filtragem colaborativa:**
    - Identificam usuários com preferências semelhantes e recomendam itens que esses usuários gostaram. A premissa é que, se usuários com gostos parecidos apreciaram um item, outros usuários com o mesmo perfil também podem gostar. 🤝
