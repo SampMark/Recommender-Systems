@@ -18,10 +18,13 @@ Existem diferentes abordagens para a construção de sistemas de recomendação,
 
 1. **Sistemas baseados em conteúdo:**
    - Analisam os atributos e características dos itens que o usuário interagiu positivamente no passado para recomendar itens semelhantes. 🔍
-   - [Recomendação de Filmes usando o DataSet MovieLens](https://github.com/SampMark/Recommendation-Systems/blob/main/Content_Based_Recommendation_System.ipynb)
+   - **Exemplo prático usando o [DataSet MovieLens](https://dl.acm.org/doi/10.1145/2827872)**:
+   - [Sistema de Recomendação de Filmes, baseado em Conteúdo](https://github.com/SampMark/Recommendation-Systems/blob/main/Content_Based_Recommendation_System.ipynb)
 
 2. **Sistemas baseados em filtragem colaborativa:**
    - Identificam usuários com preferências semelhantes e recomendam itens que esses usuários gostaram. A premissa é que, se usuários com gostos parecidos apreciaram um item, outros usuários com o mesmo perfil também podem gostar. 🤝
+   - **Exemplo prático usando o [DataSet MovieLens](https://dl.acm.org/doi/10.1145/2827872)**:
+   - [Sistema de Recomendação de Filmes, baseado em Filtragem Colaborativa](https://github.com/SampMark/Recommender-Systems/blob/main/Collaborative_Filtering_Recommender_System_Pearson_Correlation.ipynb)
 
 3. **Sistemas híbridos:**
    - Combinam diferentes técnicas de recomendação, como as baseadas em conteúdo e em filtragem colaborativa, para aproveitar as vantagens de cada abordagem e gerar recomendações mais precisas e diversificadas. ⚡
