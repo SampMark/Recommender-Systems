@@ -3,6 +3,10 @@
 Os sistemas de recomendação são algoritmos inteligentes que analisam o comportamento e as preferências dos usuários para oferecer sugestões personalizadas de itens relevantes. 
 Essas ferramentas são amplamente utilizadas em diversas plataformas digitais, como: Amazon, Netflix, Spotify, Facebook, Instagram e LinkedIn; servido para recomendar produtos, filmes, músicas, conteúdos e conexões sociais. 🎥📚🎶
 
+## Definição do Problema
+
+Imagine uma grande matriz, denominada Y, onde as linhas representam os usuários e as colunas os itens (por exemplo, filmes). Cada elemento $Y_{ai}$ dessa matriz indica a avaliação ou a preferência do usuário $a$ para o item $i$. Imagine que uma plataforma como Netflix, por exemplo, tenha uma matriz com cerca de 0,5 milhão de usuários e 18.000 filmes. Contudo, essa matriz é extremamente esparsa: em média, cada filme foi avaliado por apenas 5.000 usuários. O desafio dos sistemas de recomendação é “preencher” essa matriz, ou seja, prever a avaliação que um usuário daria a um item que ele não experimentou ainda.
+
 ## **Benefícios dos Sistemas de Recomendação**
 
 A adoção de sistemas de recomendação proporciona vantagens tanto para os usuários quanto para as empresas:
